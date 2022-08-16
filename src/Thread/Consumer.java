@@ -1,4 +1,3 @@
-package cn.lcola.sbus.api.service.ad;
 
 public class Consumer implements Runnable{
 
