@@ -1,0 +1,11 @@
+build
+.gradle
+.idea
+.jpb
+*.swp
+.DS_Store
+ajcore*txt
+
+src/main/resources/application-dev.yml
+src/main/resources/application-production.yml
+src/test/resources/application-test.yml

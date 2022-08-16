@@ -1,3 +1,4 @@
+package Thread;
 
 public class Consumer implements Runnable{
 

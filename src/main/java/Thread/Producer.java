@@ -1,3 +1,4 @@
+package Thread;
 
 public class Producer implements Runnable{
    private Fridge fridge;

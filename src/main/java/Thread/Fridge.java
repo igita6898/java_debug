@@ -1,3 +1,4 @@
+package Thread;
 
 public class Fridge {
     private int milk;

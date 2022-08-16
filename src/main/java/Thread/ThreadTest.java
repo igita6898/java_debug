@@ -1,3 +1,4 @@
+package Thread;
 
 public class ThreadTest {
     public static class Test {
