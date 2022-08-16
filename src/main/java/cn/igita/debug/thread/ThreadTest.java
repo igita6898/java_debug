@@ -1,4 +1,4 @@
-package Thread;
+package cn.igita.debug.thread;
 
 public class ThreadTest {
     public static class Test {
